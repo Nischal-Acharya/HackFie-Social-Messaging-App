@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppinsregular"
+        android:padding="5dp"
+        android:paddingEnd="15dp"
+        android:text="Delete for Me"
+        android:textAlignment="textEnd"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold|normal" />
+
+    <TextView
+        android:id="@+id/everyone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppinsregular"
+        android:padding="5dp"
+        android:paddingEnd="15dp"
+        android:text="Delete for Everyone"
+        android:textAlignment="textEnd"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold|normal" />
+
+    <TextView
+        android:id="@+id/cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppinsregular"
+        android:padding="5dp"
+        android:paddingEnd="15dp"
+        android:text="Cancel"
+        android:textAlignment="textEnd"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:layout_marginBottom="10dp"
+        android:textStyle="bold|normal" />
+
+
+
+</LinearLayout>

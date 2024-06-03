@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926902747820",
+    "project_id": "hackfie-7267864",
+    "storage_bucket": "hackfie-7267864.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926902747820:android:c5bbab7350afadf4565509",
+        "android_client_info": {
+          "package_name": "com.hackfie.hackfieofficial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtxduFMgVIkpEK3AeRUWTITfEHwUnFhWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blush_white">#B7C8F3</color>
+    <color name="green">#068251</color>
+    <color name="light_green">#2EC186</color>
+    <color name="red">#CF0606</color>
+    <color name="toolbarBackgroundColor">#F3EDF7</color>
+    <color name="gray">#808080</color>
+    <color name="message_blue">#031DFF</color>
+    <color name="follow_button">#ff33b5e5</color>
+
+
+
+</resources>
