@@ -79,9 +79,9 @@ HackFie is licensed under the [MIT License](LICENSE).
 
 For any inquiries or support, please contact:
 
-- **Email**: [your_email@example.com](mailto:nismsg1@gmail.com)
+- **Email**: [nismsg1@gmail.com](mailto:nismsg1@gmail.com)
 - **GitHub**: [your_username](https://github.com/your_username)
-- **Twitter**: [@your_twitter_handle](https://twitter.com/nishchal_acc)
+- **Twitter**: [@nishchal_acc](https://twitter.com/nishchal_acc)
 
 ## Developers
 
