@@ -55,7 +55,7 @@ We welcome contributions! Follow these steps to contribute:
 1. **Fork the repository**: Click the fork button to create a copy.
 2. **Clone your fork**:
     ```sh
-    git clone https://github.com/your_username/HackFie.git
+    git clone https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App.git
     ```
 3. **Create a new branch**:
     ```sh
@@ -80,7 +80,7 @@ HackFie is licensed under the [MIT License](LICENSE).
 For any inquiries or support, please contact:
 
 - **Email**: [nismsg1@gmail.com](mailto:nismsg1@gmail.com)
-- **GitHub**: [your_username](https://github.com/your_username)
+- **GitHub**: [Nischal-Acharya](https://github.com/https://Nischal-Acharya)
 - **Twitter**: [@nishchal_acc](https://twitter.com/nishchal_acc)
 
 ## Developers
@@ -90,7 +90,7 @@ Feel free to reach out to the developers.
 | Developers        | Portfolio                                    | Photo |
 | ----------------- | -------------------------------------------- |-------|
 | Nishchal Acharya       | [https://nishchalacharya.com.np/](https://nishchalacharya.com.np/)         | <img src="https://nishchalacharya.com.np/img/hero.png" alt="Nishchal" width="100"/> |
-| Sahil Acharya       | [https://sahilacharya.com.np/](https://sahilacharya.com.np/)         | <img src="https://sahilacharya.com.np/img/hero.png" alt="Sahil" width="100"/> |
+| Sahil Acharya       | [https://sahilacharya.com.np/](https://sahilacharya.com.np/)         | <img style="border-radius: 50%;" src="https://sahilacharya.com.np/img/hero.png" alt="Sahil" width="100"/> |
 | Anish Niraula       | [https://niraulaanish.com.np/](https://niraulaanish.com.np/)         | <img src="https://niraulaanish/img/hero.png" alt="Anish" width="100"/> |
 
 Enjoy using HackFie and feel free to modify it! 🎉
