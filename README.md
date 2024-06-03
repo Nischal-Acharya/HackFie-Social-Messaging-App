@@ -16,7 +16,7 @@ HackFie is a dynamic social messaging app designed to connect users in a secure 
 ### Android Studio
 1. **Clone this repository to your local machine**:
     ```sh
-    git clone https://github.com/your_username/HackFie.git
+    git clone https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App.git
     ```
 2. **Open the project** in Android Studio.
 3. **Build the project** to resolve all dependencies.
@@ -24,11 +24,11 @@ HackFie is a dynamic social messaging app designed to connect users in a secure 
 
 ## Features
 - **Instant Messaging**: Send and receive messages instantly.
-- **Group Chats**: Chat with multiple friends at once.
+- **User Status**: Individual knows user status like Active, Offline, Typing etc.
 - **Media Sharing**: Share photos, videos, and other files.
 - **Secure Communication**: End-to-end encryption for privacy.
-- **Customizable Themes**: Personalize your chat experience.
-- **Notifications**: Real-time notifications for new messages.
+- **Password Recover**: In case of forgot password user can recover with forgot password section.
+- **Customizable & Flexible Profile**: Users can update their profile if they want.
 
 ## Screenshots
 
@@ -38,15 +38,15 @@ HackFie is a dynamic social messaging app designed to connect users in a secure 
 ### Chat Screen
 ![Chat Screen](path_to_chat_screen.png)
 
-### Group Chat
-![Group Chat](path_to_group_chat_screen.png)
+### Profile Screen
+![User Profile](path_to_group_chat_screen.png)
 
 ## Usage
 
 1. **Sign Up/Log In**: Create an account or log in with your existing credentials.
-2. **Add Contacts**: Add friends using their unique HackFie IDs.
-3. **Start Chatting**: Select a contact and start messaging instantly.
-4. **Create Group Chats**: Create a new group to chat with multiple friends.
+2. **Add Friends**: Add friends using their unique HackFie IDs.
+3. **Start Chatting**: Select a friend and start messaging instantly.
+4. **Media Sharing**: Share photos, videos, and other files.
 
 ## Contributing
 
