@@ -79,9 +79,9 @@ HackFie is licensed under the [MIT License](LICENSE).
 
 For any inquiries or support, please contact:
 
-- **Email**: [your_email@example.com](mailto:your_email@example.com)
+- **Email**: [your_email@example.com](mailto:nismsg1@gmail.com)
 - **GitHub**: [your_username](https://github.com/your_username)
-- **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- **Twitter**: [@your_twitter_handle](https://twitter.com/nishchal_acc)
 
 ## Developers
 
@@ -89,8 +89,8 @@ Feel free to reach out to the developers.
 
 | Developers        | Portfolio                                    | Photo |
 | ----------------- | -------------------------------------------- |-------|
-| Nishchal Acharya       | [Nishchal](https://nishchalacharya.com.np/)         | <img src="photo_url_1" alt="Developer 1" width="100"/> |
-| Sahil Acharya       | [Sahil](https://sahilacharya.com.np/)         | <img src="photo_url_2" alt="Developer 2" width="100"/> |
-| Anish Niraula       | [Anish](https://niraulaanish.com.np/)         | <img src="photo_url_3" alt="Developer 3" width="100"/> |
+| Nishchal Acharya       | [https://nishchalacharya.com.np/](https://nishchalacharya.com.np/)         | <img src="https://nishchalacharya.com.np/img/hero.png" alt="Nishchal" width="100"/> |
+| Sahil Acharya       | [https://sahilacharya.com.np/](https://sahilacharya.com.np/)         | <img src="https://sahilacharya.com.np/img/hero.png" alt="Sahil" width="100"/> |
+| Anish Niraula       | [https://niraulaanish.com.np/](https://niraulaanish.com.np/)         | <img src="https://niraulaanish/img/hero.png" alt="Anish" width="100"/> |
 
 Enjoy using HackFie and feel free to modify it! 🎉
