@@ -35,6 +35,7 @@ HackFie is a dynamic social messaging app designed to connect users in a secure 
 ### Splash and Login
 ![Splash and Login](src_readme_images/Start.png)
 
+##
 ### Forgot Password, Sign In and Search
 ![Forgot Password, Sign In and Search](src_readme_images/second.png)
 
