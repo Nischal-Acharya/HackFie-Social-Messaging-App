@@ -32,14 +32,17 @@ HackFie is a dynamic social messaging app designed to connect users in a secure 
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](path_to_home_screen.png)
+### Splash and Login
+![Splash and Login](src_readme_images/start.png)
 
-### Chat Screen
-![Chat Screen](path_to_chat_screen.png)
+### Forgot Password, Sign In and Search
+![Forgot Password, Sign In and Search](src_readme_images/second.png)
 
-### Profile Screen
-![User Profile](path_to_group_chat_screen.png)
+### Chat, Delete Message and Update Profile
+![Chat, Delete Message and Update Profile](src_readme_images/third.png)
+
+### Logout and Developers
+![Logout and Developers](src_readme_images/fourth.png)
 
 ## Usage
 
