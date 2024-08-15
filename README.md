@@ -2,7 +2,7 @@
 
 ## Overview
 HackFie is a dynamic social messaging app designed to connect users in a secure and fun environment. Developed using Kotlin, it offers a seamless and efficient messaging experience.
-
+ 
 ## Technologies Used
 - Kotlin ☕
 - Android SDK 📱
