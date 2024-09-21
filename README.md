@@ -99,6 +99,5 @@ Feel free to reach out to the developers.
 | ----------------- | -------------------------------------------- |-------|
 | Nishchal Acharya       | [https://nishchalacharya.com.np/](https://nishchalacharya.com.np/)         | <img src="https://nishchalacharya.com.np/img/hero.png" alt="Nishchal" width="100"/> |
 | Sahil Acharya       | [https://sahilacharya.com.np/](https://sahilacharya.com.np/)         | <img style="border-radius: 50%;" src="https://sahilacharya.com.np/img/hero.png" alt="Sahil" width="100"/> |
-| Anish Niraula       | [https://niraulaanish.com.np/](https://niraulaanish.com.np/)         | <img src="https://niraulaanish/img/hero.png" alt="Anish" width="100"/> |
 
 Enjoy using HackFie and feel free to modify it! 🎉
