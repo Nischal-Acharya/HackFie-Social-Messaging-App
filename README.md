@@ -1,5 +1,12 @@
 # HackFie 📱
 
+<p align="center">
+  <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/graphs/contributors"><img src="https://img.shields.io/github/contributors/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge" /></a>
+  <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/stargazers"><img src="https://img.shields.io/github/stars/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge" /></a>
+  <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/forks"><img src="https://img.shields.io/github/stars/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge" /></a>
+  <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge&color=purple" /></a>
+</p>
+
 ## Overview
 HackFie is a dynamic social messaging app designed to connect users in a secure and fun environment. Developed using Kotlin, it offers a seamless and efficient messaging experience.
  
