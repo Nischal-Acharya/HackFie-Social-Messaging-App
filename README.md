@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/graphs/contributors"><img src="https://img.shields.io/github/contributors/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge" /></a>
   <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/stargazers"><img src="https://img.shields.io/github/stars/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge" /></a>
-  <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/forks"><img src="https://img.shields.io/github/stars/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge" /></a>
+  <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/forks"><img src="https://img.shields.io/github/forks/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge" /></a>
   <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge&color=purple" /></a>
 </p>
 
