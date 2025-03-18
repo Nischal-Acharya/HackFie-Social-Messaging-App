@@ -104,7 +104,7 @@ Feel free to reach out to the developers.
 
 | Developers        | Portfolio                                    | Photo |
 | ----------------- | -------------------------------------------- |-------|
-| Nishchal Acharya       | [https://nishchalacharya.com.np/](https://nishchalacharya.com.np/)         | <img src="https://nishchalacharya.com.np/img/hero.png" alt="Nishchal" width="100"/> |
+| Nishchal       | [https://nishchalacharya.com.np/](https://nishchalacharya.com.np/)         | <img src="https://nishchalacharya.com.np/img/hero.png" alt="Nishchal" width="100"/> |
 
 Enjoy using HackFie and feel free to modify it! 🎉
 
