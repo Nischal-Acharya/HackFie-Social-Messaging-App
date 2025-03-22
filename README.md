@@ -21,14 +21,14 @@ HackFie is a dynamic social messaging app designed to connect users in a secure 
 
 ## Technologies Used
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/retrofit/retrofit-original.svg" title="Retrofit" alt="Retrofit" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/glide/glide-original.svg" title="Glide" alt="Glide" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialdesign/materialdesign-original.svg" title="Material Design" alt="Material Design" width="40" height="40"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Retrofit-007396?style=for-the-badge&logo=retrofit&logoColor=white" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/Glide-4285F4?style=for-the-badge&logo=glide&logoColor=white" alt="Glide" />
+  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design" />
+</p>
 
 ## Installation
 
@@ -49,16 +49,21 @@ HackFie is a dynamic social messaging app designed to connect users in a secure 
 - **Media Sharing**: Share photos, videos, and other files.
 - **Secure Communication**: End-to-end encryption for privacy.
 - **Password Recovery**: Recover forgotten passwords easily.
-- **Customizable Profiles**: Update your profile as you wish.
+- **Customizable Profiles**: Update your profile as you like.
 
 ## Screenshots
 
-<p align="center">
-  <img src="src_readme_images/Start.png" alt="Splash and Login" width="30%"/>
-  <img src="src_readme_images/second.png" alt="Forgot Password, Sign In and Search" width="30%"/>
-  <img src="src_readme_images/third.png" alt="Chat, Delete Message and Update Profile" width="30%"/>
-  <img src="src_readme_images/fourth.png" alt="Logout and Developers" width="30%"/>
-</p>
+### Splash and Login
+![Splash and Login](src_readme_images/Start.png)
+
+### Forgot Password, Sign In, and Search
+![Forgot Password, Sign In, and Search](src_readme_images/second.png)
+
+### Chat, Delete Message, and Update Profile
+![Chat, Delete Message, and Update Profile](src_readme_images/third.png)
+
+### Logout and Developers
+![Logout and Developers](src_readme_images/fourth.png)
 
 ## Usage
 
@@ -108,10 +113,29 @@ Feel free to reach out to the developers:
 
 | Developer | Portfolio | Photo |
 | --------- | --------- | ----- |
-| Nishchal Acharya | [https://nishchalacharya.com.np/](https://nishchalacharya.com.np/) | <img src="https://nishchalacharya.com.np/img/hero.png" alt="Nishchal" width="100"/> |
+| Nishchal Acharya | [nishchalacharya.com.np](https://nishchalacharya.com.np/) | <img src="https://nishchalacharya.com.np/img/hero.png" alt="Nishchal" width="100"/> |
 
 Enjoy using HackFie and feel free to modify it! 🎉
 
 ---
 
 ⭐ **Don't forget to star this repository if you found it useful!**
+
+---
+
+<style>
+  body {
+    background-color: #f3e5f5;
+    color: #4a148c;
+  }
+  a {
+    color: #7b1fa2;
+  }
+  table {
+    border: 1px solid #7b1fa2;
+    border-radius: 10px;
+  }
+  th, td {
+    padding: 10px;
+  }
+</style>
