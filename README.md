@@ -2,140 +2,121 @@
 
 <p align="center">
   <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge" alt="Contributors" />
+    <img src="https://img.shields.io/github/contributors/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge" />
   </a>
   <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/stargazers">
-    <img src="https://img.shields.io/github/stars/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge" />
   </a>
   <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/forks">
-    <img src="https://img.shields.io/github/forks/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge" alt="Forks" />
+    <img src="https://img.shields.io/github/forks/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge" />
   </a>
   <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge&color=purple" alt="License" />
+    <img src="https://img.shields.io/github/license/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge&color=purple" />
   </a>
 </p>
 
-## Overview
+---
 
-HackFie is a dynamic social messaging app designed to connect users in a secure and fun environment. Developed using Kotlin, it offers a seamless and efficient messaging experience.
+## 🌟 Overview
+HackFie is a modern and secure social messaging app built with Kotlin. It offers a smooth user experience with advanced features like instant messaging, media sharing, and end-to-end encryption.
 
-## Technologies Used
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Retrofit-007396?style=for-the-badge&logo=retrofit&logoColor=white" alt="Retrofit" />
-  <img src="https://img.shields.io/badge/Glide-4285F4?style=for-the-badge&logo=glide&logoColor=white" alt="Glide" />
-  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design" />
-</p>
+## 🛠️ Technologies Used
+- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+- ![Retrofit](https://img.shields.io/badge/Retrofit-1572B6?style=for-the-badge&logo=retrofit&logoColor=white)
+- ![Glide](https://img.shields.io/badge/Glide-FF5733?style=for-the-badge&logo=android&logoColor=white)
 
-## Installation
+---
 
+## 💻 Installation
 ### Android Studio
-
-1. **Clone this repository to your local machine**:
-    ```sh
-    git clone https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App.git
-    ```
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App.git
+   ```
 2. **Open the project** in Android Studio.
-3. **Build the project** to resolve all dependencies.
-4. **Run the application** on an emulator or a physical device.
+3. **Build & Run** the application on an emulator or a real device.
 
-## Features
+---
 
-- **Instant Messaging**: Send and receive messages instantly.
-- **User Status**: Know when users are active, offline, or typing.
-- **Media Sharing**: Share photos, videos, and other files.
-- **Secure Communication**: End-to-end encryption for privacy.
-- **Password Recovery**: Recover forgotten passwords easily.
-- **Customizable Profiles**: Update your profile as you like.
+## 🔎 Features
+- ✉ **Instant Messaging** - Real-time chat with friends.
+- 👨‍👩‍👦 **User Status** - See if friends are online, typing, or offline.
+- 📷 **Media Sharing** - Send images, videos, and more.
+- 🔒 **Secure Communication** - End-to-end encryption.
+- ⏰ **Notifications** - Stay updated with message alerts.
+- 🌟 **Customizable Profiles** - Update profile & status anytime.
 
-## Screenshots
+---
 
-### Splash and Login
+## 📸 Screenshots
+### 🌟 Splash & Login
 ![Splash and Login](src_readme_images/Start.png)
 
-### Forgot Password, Sign In, and Search
-![Forgot Password, Sign In, and Search](src_readme_images/second.png)
+### 🔍 Forgot Password, Sign In & Search
+![Forgot Password, Sign In and Search](src_readme_images/second.png)
 
-### Chat, Delete Message, and Update Profile
-![Chat, Delete Message, and Update Profile](src_readme_images/third.png)
+### 📢 Chat, Delete Messages & Update Profile
+![Chat, Delete Message and Update Profile](src_readme_images/third.png)
 
-### Logout and Developers
+### 🛠 Logout & Developers
 ![Logout and Developers](src_readme_images/fourth.png)
 
-## Usage
+---
 
-1. **Sign Up/Log In**: Create an account or log in with your existing credentials.
-2. **Add Friends**: Add friends using their unique HackFie IDs.
-3. **Start Chatting**: Select a friend and start messaging instantly.
-4. **Media Sharing**: Share photos, videos, and other files.
+## ⚡ Usage
+1. **Sign Up / Log In** - Create an account or log in.
+2. **Add Friends** - Search & connect via HackFie IDs.
+3. **Start Chatting** - Send instant messages.
+4. **Share Media** - Send photos, videos & files.
 
-## Contributing
+---
 
-We welcome contributions! Follow these steps to contribute:
+## 👨‍👩‍👦 Contributing
+We welcome contributions! Follow these steps:
 
-1. **Fork the repository**: Click the fork button to create a copy.
-2. **Clone your fork**:
-    ```sh
-    git clone https://github.com/your-username/HackFie-Social-Messaging-App.git
-    ```
-3. **Create a new branch**:
-    ```sh
-    git checkout -b feature_branch
-    ```
-4. **Commit your changes**:
-    ```sh
-    git commit -m 'Add new feature'
-    ```
-5. **Push to the branch**:
-    ```sh
-    git push origin feature_branch
-    ```
-6. **Create a pull request**: Submit a pull request to merge your changes.
+1. **Fork & Clone** the repository:
+   ```sh
+   git clone https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App.git
+   ```
+2. **Create a new branch**:
+   ```sh
+   git checkout -b feature_branch
+   ```
+3. **Make changes & commit**:
+   ```sh
+   git commit -m "Added new feature"
+   ```
+4. **Push & Create a PR**:
+   ```sh
+   git push origin feature_branch
+   ```
 
-## License
+---
 
+## 🏆 License
 HackFie is licensed under the [MIT License](LICENSE).
 
-## Contact
+---
 
-For any inquiries or support, please contact:
-
+## 📞 Contact
 - **Email**: [nismsg1@gmail.com](mailto:nismsg1@gmail.com)
 - **GitHub**: [Nischal-Acharya](https://github.com/Nischal-Acharya)
 - **Twitter**: [@nishchal_acc](https://twitter.com/nishchal_acc)
 
-## Developers
+---
 
-Feel free to reach out to the developers:
-
+## 👨‍👩‍👦 Developers
 | Developer | Portfolio | Photo |
 | --------- | --------- | ----- |
-| Nishchal Acharya | [nishchalacharya.com.np](https://nishchalacharya.com.np/) | <img src="https://nishchalacharya.com.np/img/hero.png" alt="Nishchal" width="100"/> |
-
-Enjoy using HackFie and feel free to modify it! 🎉
+| Nishchal Acharya | [Visit Portfolio](https://nishchalacharya.com.np/) | <img src="https://nishchalacharya.com.np/img/hero.png" width="100"/> |
 
 ---
 
-⭐ **Don't forget to star this repository if you found it useful!**
+🎉 **Enjoy using HackFie and feel free to modify it!** 🌟  
 
----
+[![Star](https://img.shields.io/github/stars/Nischal-Acharya/HackFie-Social-Messaging-App?style=social)](https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App)
 
-<style>
-  body {
-    background-color: #f3e5f5;
-    color: #4a148c;
-  }
-  a {
-    color: #7b1fa2;
-  }
-  table {
-    border: 1px solid #7b1fa2;
-    border-radius: 10px;
-  }
-  th, td {
-    padding: 10px;
-  }
-</style>
